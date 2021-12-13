@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADMIN APP</string>
+    <string name="IN">ENTRADA DE VEHICULO</string>
+    <string name="OUT">SALIDA DE VEHICULO</string>
+    <string name="cupos">CUPOS DISPONIBLES = </string>
+    <string name="reinicio">REINICIAR</string>
+    <string name="salir">CERRAR</string>
+    <string name="manual">MANUAL</string>
+    <string name="ins1">Cada vez que ingrese un vehiculo se debe presionar el boton verde para así, disminuir la cantidad de cupos disponibles; y caudo salga un vehiculo se debe presionar el boton rojo para aumentar la cantidad de cupos disponibles. Tambien se puede reiniciar el contador del boton amarillo.</string>
+    <string name="INS"> INSTRUCCIONES </string>
+</resources>

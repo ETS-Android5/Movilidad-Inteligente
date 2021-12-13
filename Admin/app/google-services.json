@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564787954859",
+    "project_id": "cdio3parqueaderos",
+    "storage_bucket": "cdio3parqueaderos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564787954859:android:10bd4821d7265646fe23ee",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564787954859-963f3bvvlbk0f334le41hapaob2adlj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZM0Qd3mReBlcogRv1gjhp_2iEV7LVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564787954859-963f3bvvlbk0f334le41hapaob2adlj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
