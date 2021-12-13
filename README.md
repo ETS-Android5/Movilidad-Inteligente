@@ -11,7 +11,6 @@ En colaboración con: JOHAN SEBASTIAN MOSQUERA CAICEDO -
 
 UNIVERSIDAD DEL QUINDÍO
 
-
 Design of a system to obtain information on free places in parking lots and public parking areas.
 
 Members: HEMERSON LEANDRO ALVAREZ RODRIGUEZ -
